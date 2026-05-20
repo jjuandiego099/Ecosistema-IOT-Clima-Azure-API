@@ -19,6 +19,9 @@
 ```bash
 pip install -r requirements.txt
 ```
+```Python
+Python 3.10
+```
 
 ---
 ### Consideraciones
